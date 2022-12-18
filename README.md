@@ -1,4 +1,4 @@
-<div align="center" >
+
 ### Hi there, I'm Ohoud Alawad 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/ohoud_alawad?style=for-the-badge)](https://twitter.com/ohoud_alawad)
 [![Linkedin: ohoud-alawad](https://img.shields.io/badge/-ohoud-alawad-blueviolet?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohoud-alawad-085279171/)](https://www.linkedin.com/in/ohoud-alawad-085279171/)
@@ -62,7 +62,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/ohoud_alawad)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ohoud-alawad-085279171/)
 <br />
-</div>
+
 <!--
 **OhoudAlawad/OhoudAlawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
