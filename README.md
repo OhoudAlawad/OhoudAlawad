@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📝 I sometimes write and explain Security+ on  [twitter](https://twitter.com/ohoud_alawad)
 - 👨🏼‍💻 I like and I have knowledge of Cyber Security 
-- 👯 I love to share my knowledge with others
+- ⚡ Fun fact: I love to share my knowledge with others
 
 <br />
 
