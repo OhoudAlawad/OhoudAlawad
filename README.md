@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Ohoud Alawad 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/ohoud_alawad?style=for-the-badge)](https://twitter.com/ohoud_alawad)
-[![Linkedin: Ohoud-Alawad](https://img.shields.io/badge/-ohoud_alawad-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohoud-alawad-085279171/)](https://www.linkedin.com/in/ohoud-alawad-085279171/)
+[![Linkedin: Ohoud-Alawad](https://img.shields.io/badge/-ohoud_alawad-blueviolet?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ohoud-alawad-085279171/)](https://www.linkedin.com/in/ohoud-alawad-085279171/)
 
 ## Python FullStack Web Developer with Security awareness
 
