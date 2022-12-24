@@ -51,6 +51,8 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/c4d9d3fee42301facaf14e44adb3183a5fb7d068/icons/linux.svg" />]()
 [<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />]()
+[<img align="left" alt="SASS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />]()
+
 
 
 <br />
